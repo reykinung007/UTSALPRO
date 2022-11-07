@@ -1,0 +1,15 @@
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.vbproj.AssemblyReference.cache
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.AssemblyInfoInputs.cache
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.AssemblyInfo.vb
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.vbproj.CoreCompileInputs.cache
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\bin\Debug\net6.0\UTSALPRO.exe
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\bin\Debug\net6.0\UTSALPRO.deps.json
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\bin\Debug\net6.0\UTSALPRO.runtimeconfig.json
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\bin\Debug\net6.0\UTSALPRO.dll
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\bin\Debug\net6.0\UTSALPRO.pdb
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.dll
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\refint\UTSALPRO.dll
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.pdb
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\UTSALPRO.genruntimeconfig.cache
+D:\coding\aplikasi\praktek\APRO\UTSALPRO\UTSALPRO\obj\Debug\net6.0\ref\UTSALPRO.dll
